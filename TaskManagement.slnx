@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TaskStream.Application/TaskStream.Application.csproj" />
+    <Project Path="src/TaskStream.Domain/TaskStream.Domain.csproj" />
+    <Project Path="src/TaskStream.Infrastructure/TaskStream.Infrastructure.csproj" />
+    <Project Path="src/TaskStream.Web/TaskStream.Web.csproj" />
+  </Folder>
+</Solution>
