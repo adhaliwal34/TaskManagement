@@ -1,5 +1,6 @@
 # Clean architecture example using .NET 10
 
+```
 TaskManagement/
 ├── src/
 │   ├── TaskStream.Domain/                  # Innermost - Pure business
@@ -8,3 +9,4 @@ TaskManagement/
 │   └── TaskStream.Web/                     # MVC Project (Controllers, Views, wwwroot)
 ├── tests/
 └── TaskManagement.slnx
+```
