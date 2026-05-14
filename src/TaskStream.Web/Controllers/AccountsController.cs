@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using TaskStream.Infrastructure.Identity;
-using TaskStream.Web.Models;
+using TaskStream.Web.Models.Accounts;
 
 namespace TaskStream.Web.Controllers;
 

@@ -1,8 +1,7 @@
-﻿#nullable disable
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 
-namespace TaskStream.Infrastructure.Identity
-{
-    public class AppUser : IdentityUser
-    { }
-}
+namespace TaskStream.Infrastructure.Identity;
+
+public class AppUser : IdentityUser
+{ }
+
