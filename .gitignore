@@ -39,5 +39,9 @@ msbuild.wrn
 appsettings.*
 [Pp]roperties/
 
+# C# Dev Kit
+
+*.lscache
+
 # Logs
 [Ll]ogs/
